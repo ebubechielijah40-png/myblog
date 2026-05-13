@@ -9,4 +9,5 @@ urlpatterns = [
     path('<slug:slug>/', views.PostDetailView.as_view(), name='post_detail'),
     path('<slug:slug>/update/', views.PostUpdateView.as_view(), name='post_update'),
     path('<slug:slug>/delete/', views.PostDeleteView.as_view(), name='post_delete'),
+    path('accounts/register/', views.RegisterFormView.as_view(), name='register')
 ]

@@ -1,6 +1,6 @@
 from django import forms
 from .models import Post
-import django.contrib.auth.forms as UserCreationForm
+from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
 
 class PostForm(forms.ModelForm):
