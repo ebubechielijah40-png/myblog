@@ -48,6 +48,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'blog.middleware.MaintenanceModeMiddleware',
+    'blog.middleware.StaffAreaMiddleware',
 ]
 
 ROOT_URLCONF = 'mysite.urls'
@@ -120,3 +122,5 @@ STATIC_URL = 'static/'
 LOGIN_REDIRECT_URL = 'blog:post_list'
 LOGIN_REDIRECT_URL = 'blog:post_list'
 LOGIN_URL = 'accounts/login/'
+
+MAINTENANCE_MODE = False
