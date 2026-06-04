@@ -1,0 +1,103 @@
+BEGINNER PYTHON CLASS SCHEME OF TOPICS
+
+MODULE 1: INTRODUCTION TO PYTHON
+1. What is Python?
+2. Installing Python
+3. Installing an IDE (VS Code, IDLE, or PyCharm)
+4. Writing and Running Your First Python Program
+5. Python Syntax Basics
+6. Comments in Python
+
+MODULE 2: VARIABLES AND DATA TYPES
+7. Variables
+8. Naming Rules and Conventions
+9. Integer Data Type
+10. Float Data Type
+11. String Data Type
+12. Boolean Data Type
+13. Checking Data Types with type()
+
+MODULE 3: INPUT AND OUTPUT
+14. Using print()
+15. Formatting Output
+16. Using input()
+17. Converting User Input
+18. Simple Interactive Programs
+
+MODULE 4: OPERATORS
+19. Arithmetic Operators
+20. Assignment Operators
+21. Comparison Operators
+22. Logical Operators
+23. Operator Precedence
+
+MODULE 5: STRINGS
+24. Creating Strings
+25. String Indexing
+26. String Slicing
+27. Common String Methods
+28. String Concatenation
+29. String Formatting
+
+MODULE 6: CONTROL FLOW
+30. Introduction to Decision Making
+31. if Statements
+32. if-else Statements
+33. if-elif-else Statements
+34. Nested Conditions
+
+MODULE 7: LOOPS
+35. Introduction to Loops
+36. while Loop
+37. for Loop
+38. Using range()
+39. Nested Loops
+40. break Statement
+41. continue Statement
+
+MODULE 8: DATA STRUCTURES
+42. Introduction to Data Structures
+43. Lists
+44. List Operations
+45. List Methods
+46. Tuples
+47. Sets
+48. Dictionaries
+
+MODULE 9: FUNCTIONS
+49. What is a Function?
+50. Creating Functions
+51. Function Parameters
+52. Return Values
+53. Calling Functions
+54. Variable Scope Basics
+
+MODULE 10: WORKING WITH FILES
+55. Introduction to Files
+56. Reading Text Files
+57. Writing to Text Files
+58. Appending Data to Files
+59. Closing Files Properly
+
+MODULE 11: ERROR HANDLING
+60. Understanding Errors
+61. Syntax Errors
+62. Runtime Errors
+63. try and except
+64. Handling User Input Errors
+
+MODULE 12: BASIC PYTHON PROJECTS
+65. Calculator Program
+66. Number Guessing Game
+67. Student Grade Calculator
+68. Simple To-Do List
+69. Contact Book
+70. Basic Quiz Application
+
+MODULE 13: PRACTICE AND REVISION
+71. Coding Exercises
+72. Problem Solving Techniques
+73. Debugging Basics
+74. Mini Challenges
+75. Final Beginner Project
+76. Course Review and Recap
